@@ -16,7 +16,6 @@
 [![total](https://img.shields.io/github/downloads/jonas52/conssincronize/total)]()
 [![watchers](https://img.shields.io/github/watchers/jonas52/conssincronize)]()
 [![languages](https://img.shields.io/github/languages/count/jonas52/conssincronize)]()
-[![repo-size](https://img.shields.io/github/repo-size/jonas52/conssincronize)]()
 
 # About my project
 ## The conssincronize is a product of © PSociety by jonas52! Copyright (C) 2021-2022 © PSociety. All rights reserved.
