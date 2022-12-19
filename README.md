@@ -7,7 +7,7 @@
 ╚██████╗╚██████╔╝██║ ╚████║███████║███████║██║██║ ╚████║╚██████╗██║  ██║╚██████╔╝██║ ╚████║██║███████╗███████╗
  ╚═════╝ ╚═════╝ ╚═╝  ╚═══╝╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝ ╚═════╝╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═══╝╚═╝╚══════╝╚══════╝             
                                                                                                  
-                                      Script to convert files
+                                      Script to syncronize files
 </pre>
 [![MadeBy](https://img.shields.io/badge/Made%20by-Jonas%20Petitpierre-informational)](https://github.com/jonas52)
 [![Codename](https://img.shields.io/badge/Codename-jonas52-informational)](https://github.com/jonas52)
