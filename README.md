@@ -13,7 +13,6 @@
 [![Codename](https://img.shields.io/badge/Codename-jonas52-informational)](https://github.com/jonas52)
 [![Supported OS](https://img.shields.io/badge/Supported%20OS-Linux-brightgreen)]()
 [![Licence](https://img.shields.io/badge/License-GNU%20GPL--3.0-important)](https://github.com/jonas52/conssincronize/blob/main/LICENSE)
-[![total](https://img.shields.io/github/downloads/jonas52/conssincronize/total)]()
 [![watchers](https://img.shields.io/github/watchers/jonas52/conssincronize)]()
 
 # About my project
